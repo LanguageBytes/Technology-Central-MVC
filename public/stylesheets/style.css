@@ -1,0 +1,114 @@
+/* Header and Nav Bar */
+.header-style {
+  background-color: rgb(255, 255, 255);
+  color: rgb(83, 83, 83);
+  padding: 30px;
+}
+
+p {
+color:rgb(48, 48, 177);
+margin-left: 15px;
+font-size: 16px;
+}
+
+nav a {
+  font-size: large;
+  font-weight: 600;
+  margin: 10px;
+  
+}
+
+.blue {
+  background-color: lightblue;
+}
+.large-text {
+font-size: 25px;
+color:rgb(132, 186, 206);
+
+}
+.header-box {
+  justify-content: center;
+  display: flex;
+  background-color: rgb(255, 255, 255);
+  color: rgb(242, 241, 241);
+  margin: 10px;
+  width: 360px;
+  opacity: 0.8;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: 6px 5px rgb(132, 186, 206);
+}
+
+.header-text {
+  padding: 10px;
+  font-size: 36px;
+  font-weight: 700;
+  text-decoration: none;
+  justify-content: center;
+  display: flex;
+}
+
+/* Main */
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+/* Forms */
+.log-form {
+  background-color: rgb(244, 235, 235);
+  padding: 10%;
+}
+
+.sign-up-form {
+  background-color: rgb(244, 235, 235);
+  padding: 10%;
+}
+
+
+/* Posts */
+.new-post {
+  background-color: rgb(45, 94, 161);
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+}
+
+.list-group {
+  padding: 5%;
+}
+
+.main-list {
+  color: rgb(236, 240, 243);
+  margin-bottom: 50px;
+  padding: 10%;
+  border-radius: 20px;
+  background-color: rgb(18, 64, 145);
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.single-post {
+  padding: 4%;
+}
+
+/* Card Styling */
+.content-card {
+  padding: 2%;
+  text-decoration: none;
+  background-color: rgb(244, 244, 244);
+  color: black;
+}
+
+.dashboard-card {
+  color: rgb(255, 255, 255);
+  border: rgb(10, 37, 77);
+  margin-bottom: 40px;
+  background-color: rgb(56, 104, 182);
+}
+
+.comment-card {
+  color: rgb(6, 11, 66);
+  border: rgb(50, 25, 190);
+  margin-bottom: 10px;
+  background-color: rgb(142, 142, 142);
+}
+
