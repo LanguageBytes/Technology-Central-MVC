@@ -1,7 +1,7 @@
 # <p align="center"> Technology Central MVC </p>
 <br> 
  <p align="center">
-  <img src="assets/screenshot1.gif"/>
+  <img src="assets/screenshot2.gif"/>
 </p>
 
 ## Description
