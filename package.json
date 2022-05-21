@@ -12,5 +12,6 @@
     "sequelize": "^6.19.2"
   }
 ,
-  "engines": { "node": "16.x"}
+  "engines": { "node": "16.x"},
+  "start":"node server.js"
 }
