@@ -41,7 +41,7 @@ color:rgb(132, 186, 206);
 
 .header-text {
   padding: 10px;
-  font-size: 36px;
+  font-size: 40px;
   font-weight: 700;
   text-decoration: none;
   justify-content: center;
@@ -54,7 +54,7 @@ body {
 }
 
 /* Forms */
-.log-form {
+.login-form {
   background-color: rgb(244, 235, 235);
   padding: 10%;
 }
