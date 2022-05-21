@@ -1,4 +1,5 @@
 {
+  "start":"node server.js",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.3",
@@ -12,6 +13,5 @@
     "sequelize": "^6.19.2"
   }
 ,
-  "engines": { "node": "16.x"},
-  "start":"node server.js"
+  "engines": { "node": "16.x"}
 }
