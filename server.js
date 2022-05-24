@@ -11,6 +11,7 @@ const PORT = process.env.PORT || 3001;
 const path = require('path');
 
 const createSession = {
+  host:  'localhost',
   secret: 'Lemon',
   cookie: {},
   resave: false,
